@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: ehealth.backend
+---
+testFramework: junit
+sourceLanguage: java
